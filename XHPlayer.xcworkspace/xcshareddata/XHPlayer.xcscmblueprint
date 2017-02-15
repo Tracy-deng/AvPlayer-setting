@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "34E3BADA9273A57A18A426B44B1406989BE325DC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "34E3BADA9273A57A18A426B44B1406989BE325DC" : 0,
+    "731930CA714CB9008FC0A24B34318D494D8C418A" : 0,
+    "2EBA4C355FF4A08224FC2B1ADA342281607C94ED" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AFDC60F4-64FC-4DCE-85D3-2028AD1D8A7F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "34E3BADA9273A57A18A426B44B1406989BE325DC" : "XHPlayer\/",
+    "731930CA714CB9008FC0A24B34318D494D8C418A" : "XHPlayer\/XHPlayer\/",
+    "2EBA4C355FF4A08224FC2B1ADA342281607C94ED" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XHPlayer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XHPlayer.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Raul7777\/XHPlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2EBA4C355FF4A08224FC2B1ADA342281607C94ED"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Raul7777\/XHPlayerDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "34E3BADA9273A57A18A426B44B1406989BE325DC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Raul7777\/XHPlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "731930CA714CB9008FC0A24B34318D494D8C418A"
+    }
+  ]
+}
